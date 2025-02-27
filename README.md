@@ -1,0 +1,1 @@
+# mcp-gpt-1click-install
